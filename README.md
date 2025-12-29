@@ -27,4 +27,4 @@ Some part of the code are from TEJAPI_Python_Medium_Quant.
 - Bounds keep weights in [0,1] with a full-investment constraint (sum to 1); there is no shorting or leverage in the current setup.
 - Plotly opens in a browser window; if running headless, switch to `write_html` instead of `fig.show()`.
 - See [2023_Linear_Algebra_Team4_Final_Project_Report.pdf](2023_Linear_Algebra_Team4_Final_Project_Report.pdf) for a detailed explanation of the methodology and results.
-- See [demo.mp4](demo.mp4) for the visualization of the efficient frontier.
+- See [demo.mp4](https://youtu.be/IRMFLBSN2zQ) for the visualization of the efficient frontier.
